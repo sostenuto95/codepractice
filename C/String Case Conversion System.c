@@ -2,10 +2,23 @@
 #include <stdio.h>
 #include <string.h>
 
-void string_upper(char* c){ // Up Function
-    for(int i=0;i<strlen(c);i++)
-    {
-       c[i] = c[i]-('a'-'A');  
+void string_upper(const char* c){ // Up Function
+    int diff = 'a'-'A';
+    int n= strlen(c);
+   /* for(int i=0;i<n;i++)
+    {   
+        int*p =&c[i]; // use *p to replace c[i]
+        if(*p>='a' && *p<='z')
+        {
+          *p -= (diff);
+        }
+        // else {c[i] = c[i];}
+    }*/
+    for ( ; *c;c++){
+        if(*c >= 'a' && *c = 'z')
+        {
+            ^c -= diff;
+        }
     }
    
     printf("%s\n",c);
@@ -13,11 +26,14 @@ void string_upper(char* c){ // Up Function
 
 void string_lower(char* c){ // Low Function
   for(int i=0;i<strlen(c);i++)
-    {   
-
-       c[i] = c[i]+('a'-'A');  
+{
+    if(c[i]>='A' && c[i]<='Z')
+        {
+       c[i] = c[i]+('a'-'A');
+        }
+        else {c[i] = c[i];}
     }
-    printf("%s\n",c);
+      printf("%s\n",c);
 }
 
 void string_mix(char* c){ // Mix Function
