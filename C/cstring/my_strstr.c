@@ -38,9 +38,10 @@ char* my_strstr ( char * str1, char* str2)
         while(p!=str2) // Go back from the top 
             {
                 str2--;
-                str1-k; // Clear cache
+                
             }
             
+        str1-k; // Clear cache
         k=0;    
         str1++;  // Move on to the next one
     }
