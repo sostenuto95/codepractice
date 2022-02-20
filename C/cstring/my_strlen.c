@@ -3,16 +3,18 @@
 
 
 
-int my_string_len(char* c){
-    int count=0;
-    for(;*c;){
-      *c!='\0';
-      *c++;
-      count++;
+size_t my_strlen(  char * src )
+{
+    char* s = src;
+    for(;*src;src++){
+        
     }
-    return count;
     
+    return src-s;
 }
+
+
+
 int main()
 {   
     char a[30] ;
@@ -23,8 +25,7 @@ int main()
 
     
     
-    printf("my_string_len is : %d\n",my_string_len(a));
+    printf("my_string_len is : %ld\n",my_strlen(a));
     printf("str_len is : %d",(unsigned)strlen(a));
     return 0;
 }
-
