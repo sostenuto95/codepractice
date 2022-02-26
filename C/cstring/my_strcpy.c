@@ -6,12 +6,14 @@
 
 char * my_strcpy ( char * dst, char * src )
 {
-    
+    char* dst_strat = dst;   
     while(*src)
     {
         *dst++=*src++;
     }
-    return dst;
+
+    *dst=0;
+    return dst_strat;
 }
 
 

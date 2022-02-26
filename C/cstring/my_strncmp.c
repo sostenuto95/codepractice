@@ -8,7 +8,7 @@
 int my_strncmp ( char * str1, char * str2, size_t num)
 {
 
-    for(int c = 0;c<num;c++)
+    for(int c = 0;c<num && *str1 && *str2;c++)// csn use size_t
     {
         if(*str1!=*str2)
         {

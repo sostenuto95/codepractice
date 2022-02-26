@@ -20,10 +20,11 @@ size_t my_strcspn ( char * str1, char* str2)
             str2++;
         }
         
-        while(p!=str2) // Go back from the top 
+        str2= p;
+       /* while(p!=str2) // Go back from the top 
         {
             str2--;
-        }
+        }*/
         
         
         c++;

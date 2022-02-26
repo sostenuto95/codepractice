@@ -6,6 +6,17 @@
 
 char* my_strstr ( char * str1, char* str2)
 {   
+
+    for(char* a = str1; *s;a++) 
+    {
+        if(0==my_strcmp(s,str2))
+            return s;
+    }
+
+    return NULL;
+
+
+
     int c = strlen(str2);
     int k =0;
     char* p = str2;
@@ -16,7 +27,7 @@ char* my_strstr ( char * str1, char* str2)
             {
                 while(*str2)
                 {
-                    if(*str1==*str2)
+                    if(*str1 == *str2)
                     {
                         str1++;
                         str2++;
@@ -41,7 +52,7 @@ char* my_strstr ( char * str1, char* str2)
                 
             }
             
-        str1-k; // Clear cache
+        str1=str1-k; // Clear cache
         k=0;    
         str1++;  // Move on to the next one
     }

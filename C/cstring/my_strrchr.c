@@ -6,7 +6,7 @@
 
 char* my_strrchr ( char * str, int character) // Last Occurrence
 {
-
+  char* start = str;
     while(*str)
     {
       str++;  
@@ -14,7 +14,7 @@ char* my_strrchr ( char * str, int character) // Last Occurrence
     
     str--; // Back to last string
     
-    while(*str)
+    while(*str >= strat)
     {
     if(*str==character)
         {
