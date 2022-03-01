@@ -12,7 +12,7 @@ def smart_factorial(n):
     if n == 1:    # The base case (termination condition.)
         return 1
     else:
-        return n * factorial(n - 1) n-- until 1 
+        return n * factorial(n - 1) #n-- until 1 
 
 
 
