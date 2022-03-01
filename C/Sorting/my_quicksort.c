@@ -30,8 +30,6 @@ int main()
     int count=sizeof(list)/sizeof(int);
     int n=0;
      
-    int largest=list[count-1];
-     
     printf("These are the Non-Sorted Numbers:\n");
     for(int i=0;i<count;i++)
     {
