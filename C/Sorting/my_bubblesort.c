@@ -40,7 +40,7 @@ int main()
     {
         if(i-b==-1)
         {
-             printf("%d. ",a[i]);
+            printf("%d. ",a[i]);
         }
         else
         {
@@ -59,7 +59,7 @@ int main()
     {
         if(i-b==-1)
         {
-             printf("%d. ",a[i]);
+            printf("%d. ",a[i]);
         }
         else
         {
