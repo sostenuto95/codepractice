@@ -5,20 +5,18 @@ int* my_bubblesort(int* src,int count)
 {
     int temp;
     int i = 0;
-    int j = 0;
     int k = 0;
 
     while(k<count-1)
     {
-        while(j<count-1)
+        while(i<count-1)
         {
             if(src[i]>(src[i+1]))
             {
-                temp = src[i+1];
+                temp = src[i+1];  // my_swap();
                 src[i+1]=src[i];
                 src[i] = temp;
             }
-            j++;
             i++;
         }
         i=0;
@@ -31,9 +29,9 @@ int* my_bubblesort(int* src,int count)
 
 int main()
 {
-    int a[7] = {9,7,-5,60,2,95,-3};
+    int a[] = {9,7,-5,60,2,95,-3};
     
-    int b = sizeof(a)/sizeof(int);   
+    int b = sizeof(a)/sizeof(a[0]);   
     
     printf("These are the UNSORTED numbers:");
     for(int i=0;i<b;i++)
