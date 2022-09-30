@@ -1,0 +1,1572 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+		E8750D53EEE9C749ADA0DC7C = {
+			isa = PBXBuildFile;
+			fileRef = 7F40FF279F958926DD3379D7;
+		};
+		9CCD691C563EA278C0560837 = {
+			isa = PBXBuildFile;
+			fileRef = DC94966A9C97BD19817D6996;
+		};
+		1C8636DB9A5C1EE55E1157D2 = {
+			isa = PBXBuildFile;
+			fileRef = 8BECADA574CE7F3176BE1840;
+		};
+		836E943013288B25C3A70498 = {
+			isa = PBXBuildFile;
+			fileRef = EDA62612CF166835C943E528;
+		};
+		15DB139AF422A7CD551E9AE8 = {
+			isa = PBXBuildFile;
+			fileRef = 19819AD18EA6FE4EB31B00B5;
+		};
+		CA168BFAE01E9F45EBC9CFBC = {
+			isa = PBXBuildFile;
+			fileRef = F9B5E82E1311380826546861;
+		};
+		DE9057C5686BE3E94DC0FA63 = {
+			isa = PBXBuildFile;
+			fileRef = E41430E63A37D572556F0667;
+		};
+		FE686F589C65DA0BB7933CCC = {
+			isa = PBXBuildFile;
+			fileRef = 235A41A116C772DB6A4FC93E;
+		};
+		6F7E9875B64FAF0E3DB9CFF5 = {
+			isa = PBXBuildFile;
+			fileRef = D0205AC1D44C507A15A96ADF;
+		};
+		5B2552E9DA5ACD15CFFE2402 = {
+			isa = PBXBuildFile;
+			fileRef = CD369BE2B13CE4CE71005612;
+		};
+		B120823907AC95FF9BB16EAD = {
+			isa = PBXBuildFile;
+			fileRef = C88C5E216F081E8EC3A75668;
+		};
+		B4078AE1E0EE54C776D8A8AF = {
+			isa = PBXBuildFile;
+			fileRef = 0D25E12C4DA7751F9A576646;
+		};
+		1AC1C8216B4081999EFE4A0D = {
+			isa = PBXBuildFile;
+			fileRef = B2EA1E71E91EC5A99F04B33F;
+		};
+		E7D9FB13162222DD59E30EC5 = {
+			isa = PBXBuildFile;
+			fileRef = 17D205B19CFB0388D0941DAD;
+		};
+		6C45F857D15668058E56AB72 = {
+			isa = PBXBuildFile;
+			fileRef = 73D95BF35E9C5F2595DCFE13;
+		};
+		4EFD3DFE9CF8E4B238089E18 = {
+			isa = PBXBuildFile;
+			fileRef = 474F37F9FE45D863A91E3418;
+		};
+		DC71FD7E57C7DD12F5DBD5E1 = {
+			isa = PBXBuildFile;
+			fileRef = 0ADC6000FB8FF5C11B749726;
+		};
+		61A727A72DFF39803118A0AB = {
+			isa = PBXBuildFile;
+			fileRef = BFDA84851DB2FEFAFA6A1619;
+		};
+		2E333EEE0EB09DEBCCE57397 = {
+			isa = PBXBuildFile;
+			fileRef = 058C8A5EF23F888CF9FF4764;
+		};
+		E5E6D6E413055CA935259CB3 = {
+			isa = PBXBuildFile;
+			fileRef = 5E665429653851793C13069A;
+		};
+		FA299AF666FB0C668C0E1CD1 = {
+			isa = PBXBuildFile;
+			fileRef = 29D406D554F07FD9313827FF;
+		};
+		AE30368ECD64D9D3FB177361 = {
+			isa = PBXBuildFile;
+			fileRef = 107989922DCF607C86322E63;
+		};
+		06AA346F1CC9F85F9DDD3768 = {
+			isa = PBXBuildFile;
+			fileRef = 96A6B8025C6F1458B4A8E06D;
+		};
+		AC6C4AE47838BDB3BA5B1855 = {
+			isa = PBXBuildFile;
+			fileRef = 297C3A4C07C3F6A185E02970;
+		};
+		346512492BCFBA976580FE51 = {
+			isa = PBXBuildFile;
+			fileRef = 56A62009CDA835072683CE6F;
+		};
+		1C15DE5FCB0E73D89F3927C4 = {
+			isa = PBXBuildFile;
+			fileRef = E0B3727CE076C24867EDFCC4;
+		};
+		B4B007A49F09AEB6974A621E = {
+			isa = PBXBuildFile;
+			fileRef = 17CBE2423BD51EACE9EBF7CA;
+		};
+		005CD0C300C4768D53EC7BBD = {
+			isa = PBXBuildFile;
+			fileRef = 6BF9BA385AF50FBBDBD17620;
+		};
+		F74F5B4D594260DC4F65EE4F = {
+			isa = PBXBuildFile;
+			fileRef = 691A574F675B2324E0EEEBA4;
+		};
+		2A538C8AE843FD370B19912F = {
+			isa = PBXBuildFile;
+			fileRef = 93033921CD89046E84FB3DC2;
+		};
+		126C7A7A2919CFED481CD4E5 = {
+			isa = PBXBuildFile;
+			fileRef = AAC2C6D99CBE5C94CA9AACEF;
+		};
+		97D2514E6662240522B543B9 = {
+			isa = PBXBuildFile;
+			fileRef = 8AA74F9CDD824B25F46339C4;
+		};
+		F4628FFD0D4449FCCFED39A8 = {
+			isa = PBXBuildFile;
+			fileRef = 7E4A13A557337C142922F414;
+		};
+		825549A4B98EC472A4C97B11 = {
+			isa = PBXBuildFile;
+			fileRef = A4DCFF7C05CA374E63D8A41F;
+		};
+		588EFB41044B1B95CDFC3D91 = {
+			isa = PBXBuildFile;
+			fileRef = 14102A7D3B2D0EDCF08C6B28;
+		};
+		875FDD5A41B53EB2A3C840FA = {
+			isa = PBXBuildFile;
+			fileRef = 938B48E5E3F0EEEE5C8FA165;
+		};
+		62285D14750A11E8F76FE09A = {
+			isa = PBXBuildFile;
+			fileRef = 59423D4692CA033120CE6272;
+		};
+		6760930096CBEF1FAFEC09D9 = {
+			isa = PBXBuildFile;
+			fileRef = ACB1470722A98B806AE0863D;
+		};
+		A6EE6FA3E750E1B8C974F5CE = {
+			isa = PBXBuildFile;
+			fileRef = 2878F59F849BE7F86EF414F0;
+		};
+		99DF5B03B2E32092311C6571 = {
+			isa = PBXBuildFile;
+			fileRef = B9FD376F528D1DC048FF1293;
+		};
+		00493AE2349BA854E6A3913E = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_opengl";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_opengl";
+			sourceTree = "<absolute>";
+		};
+		013D545BC2D0C99A641E5DBF = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = PluginProcessor.h;
+			path = ../../Source/PluginProcessor.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		058C8A5EF23F888CF9FF4764 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = PluginProcessor.cpp;
+			path = ../../Source/PluginProcessor.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		097D463D59D38BE3ADF3CDF2 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_cryptography";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_cryptography";
+			sourceTree = "<absolute>";
+		};
+		0ADC6000FB8FF5C11B749726 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = WebKit.framework;
+			path = System/Library/Frameworks/WebKit.framework;
+			sourceTree = SDKROOT;
+		};
+		0D25E12C4DA7751F9A576646 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreMIDI.framework;
+			path = System/Library/Frameworks/CoreMIDI.framework;
+			sourceTree = SDKROOT;
+		};
+		107989922DCF607C86322E63 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_devices.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_devices.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		14102A7D3B2D0EDCF08C6B28 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_data_structures.mm";
+			path = "../../JuceLibraryCode/include_juce_data_structures.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		17CBE2423BD51EACE9EBF7CA = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_AU_2.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU_2.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		17D205B19CFB0388D0941DAD = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = IOKit.framework;
+			path = System/Library/Frameworks/IOKit.framework;
+			sourceTree = SDKROOT;
+		};
+		19819AD18EA6FE4EB31B00B5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Accelerate.framework;
+			path = System/Library/Frameworks/Accelerate.framework;
+			sourceTree = SDKROOT;
+		};
+		226EEE755D223911C80DD06A = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_data_structures";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_data_structures";
+			sourceTree = "<absolute>";
+		};
+		235A41A116C772DB6A4FC93E = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Carbon.framework;
+			path = System/Library/Frameworks/Carbon.framework;
+			sourceTree = SDKROOT;
+		};
+		2878F59F849BE7F86EF414F0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_gui_extra.mm";
+			path = "../../JuceLibraryCode/include_juce_gui_extra.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		297C3A4C07C3F6A185E02970 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_AAX.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AAX.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		29D406D554F07FD9313827FF = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_basics.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_basics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		2E566695FA51F8E8B4E9344E = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_gui_extra";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_gui_extra";
+			sourceTree = "<absolute>";
+		};
+		474F37F9FE45D863A91E3418 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = QuartzCore.framework;
+			path = System/Library/Frameworks/QuartzCore.framework;
+			sourceTree = SDKROOT;
+		};
+		55CDE29D8FEFC6ED2F3E4291 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_processors";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_processors";
+			sourceTree = "<absolute>";
+		};
+		56A62009CDA835072683CE6F = {
+			isa = PBXFileReference;
+			lastKnownFileType = file.r;
+			name = "include_juce_audio_plugin_client_AU.r";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU.r";
+			sourceTree = "SOURCE_ROOT";
+		};
+		59423D4692CA033120CE6272 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_graphics.mm";
+			path = "../../JuceLibraryCode/include_juce_graphics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		5D1AFE87D72D34E555BC0A18 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_graphics";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_graphics";
+			sourceTree = "<absolute>";
+		};
+		5E665429653851793C13069A = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = PluginEditor.cpp;
+			path = ../../Source/PluginEditor.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		6024BAE10434FAA45BE784E1 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = PluginEditor.h;
+			path = ../../Source/PluginEditor.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		691A574F675B2324E0EEEBA4 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_VST_utils.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_VST_utils.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		6BF9BA385AF50FBBDBD17620 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_utils.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_utils.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		73D95BF35E9C5F2595DCFE13 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = OpenGL.framework;
+			path = System/Library/Frameworks/OpenGL.framework;
+			sourceTree = SDKROOT;
+		};
+		7E4A13A557337C142922F414 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_core.mm";
+			path = "../../JuceLibraryCode/include_juce_core.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		7F40FF279F958926DD3379D7 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			path = "Vemuram Drive.vst3";
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		814FDD81B521284BB7CCFB51 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_devices";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_devices";
+			sourceTree = "<absolute>";
+		};
+		8AA74F9CDD824B25F46339C4 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_utils.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_utils.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		8F3495FF12BE3069FCCBC08E = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_events";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_events";
+			sourceTree = "<absolute>";
+		};
+		938B48E5E3F0EEEE5C8FA165 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_events.mm";
+			path = "../../JuceLibraryCode/include_juce_events.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		96A6B8025C6F1458B4A8E06D = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_formats.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_formats.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		A4CA926E66B27ABD1034CCC3 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_plugin_client";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_plugin_client";
+			sourceTree = "<absolute>";
+		};
+		B27F994FD1FB6E1F2F586A2C = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-AAX.plist";
+			path = "Info-AAX.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		B3F1A36D27C9D4402BFCFE46 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Vemuram Drive.entitlements";
+			path = "Vemuram Drive.entitlements";
+			sourceTree = "SOURCE_ROOT";
+		};
+		B44B404C701A6D35FC9B71F3 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_formats";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_formats";
+			sourceTree = "<absolute>";
+		};
+		B6056703198196AE0B242AC2 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_utils";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_utils";
+			sourceTree = "<absolute>";
+		};
+		B8B12BB57B3EA2838E80FBB4 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_core";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_core";
+			sourceTree = "<absolute>";
+		};
+		BFDA84851DB2FEFAFA6A1619 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file.nib;
+			name = RecentFilesMenuTemplate.nib;
+			path = RecentFilesMenuTemplate.nib;
+			sourceTree = "SOURCE_ROOT";
+		};
+		C88C5E216F081E8EC3A75668 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreAudioKit.framework;
+			path = System/Library/Frameworks/CoreAudioKit.framework;
+			sourceTree = SDKROOT;
+		};
+		DC94966A9C97BD19817D6996 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			path = "Vemuram Drive.aaxplugin";
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		8BECADA574CE7F3176BE1840 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			path = "Vemuram Drive.component";
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		93033921CD89046E84FB3DC2 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_VST3.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_VST3.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		A4DCFF7C05CA374E63D8A41F = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_cryptography.mm";
+			path = "../../JuceLibraryCode/include_juce_cryptography.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		AAC2C6D99CBE5C94CA9AACEF = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_processors.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_processors.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		ACB1470722A98B806AE0863D = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_gui_basics.mm";
+			path = "../../JuceLibraryCode/include_juce_gui_basics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		B2EA1E71E91EC5A99F04B33F = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = DiscRecording.framework;
+			path = System/Library/Frameworks/DiscRecording.framework;
+			sourceTree = SDKROOT;
+		};
+		B96274EA8AA9265C89EAB4DB = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_gui_basics";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_gui_basics";
+			sourceTree = "<absolute>";
+		};
+		B9FD376F528D1DC048FF1293 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_opengl.mm";
+			path = "../../JuceLibraryCode/include_juce_opengl.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		CC1AFEFCE460B6193AED858C = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = AppConfig.h;
+			path = ../../JuceLibraryCode/AppConfig.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		CD369BE2B13CE4CE71005612 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreAudio.framework;
+			path = System/Library/Frameworks/CoreAudio.framework;
+			sourceTree = SDKROOT;
+		};
+		D0205AC1D44C507A15A96ADF = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Cocoa.framework;
+			path = System/Library/Frameworks/Cocoa.framework;
+			sourceTree = SDKROOT;
+		};
+		D9AC8C21F1190CDB6DFA1746 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-VST3.plist";
+			path = "Info-VST3.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		DC338D678EE1891BA77150F5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = JuceHeader.h;
+			path = ../../JuceLibraryCode/JuceHeader.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		E0B3727CE076C24867EDFCC4 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_AU_1.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU_1.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		E41430E63A37D572556F0667 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = AudioUnit.framework;
+			path = System/Library/Frameworks/AudioUnit.framework;
+			sourceTree = SDKROOT;
+		};
+		EB19BBBD6EB56521CBC8097D = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-AU.plist";
+			path = "Info-AU.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		EDA62612CF166835C943E528 = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			path = "libVemuram Drive.a";
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		F9B5E82E1311380826546861 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = AudioToolbox.framework;
+			path = System/Library/Frameworks/AudioToolbox.framework;
+			sourceTree = SDKROOT;
+		};
+		F9C7B04AB643BC6631230A36 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_basics";
+			path = "/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_basics";
+			sourceTree = "<absolute>";
+		};
+		450503D2DCEF7668567F238B = {
+			isa = PBXGroup;
+			children = (
+				058C8A5EF23F888CF9FF4764,
+				013D545BC2D0C99A641E5DBF,
+				5E665429653851793C13069A,
+				6024BAE10434FAA45BE784E1,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		1B9879E209855EE6E9BC8FEF = {
+			isa = PBXGroup;
+			children = (
+				450503D2DCEF7668567F238B,
+			);
+			name = "Vemuram Drive";
+			sourceTree = "<group>";
+		};
+		EB8B9986EC3766854B65C515 = {
+			isa = PBXGroup;
+			children = (
+				F9C7B04AB643BC6631230A36,
+				814FDD81B521284BB7CCFB51,
+				B44B404C701A6D35FC9B71F3,
+				A4CA926E66B27ABD1034CCC3,
+				55CDE29D8FEFC6ED2F3E4291,
+				B6056703198196AE0B242AC2,
+				B8B12BB57B3EA2838E80FBB4,
+				097D463D59D38BE3ADF3CDF2,
+				226EEE755D223911C80DD06A,
+				8F3495FF12BE3069FCCBC08E,
+				5D1AFE87D72D34E555BC0A18,
+				B96274EA8AA9265C89EAB4DB,
+				2E566695FA51F8E8B4E9344E,
+				00493AE2349BA854E6A3913E,
+			);
+			name = "JUCE Modules";
+			sourceTree = "<group>";
+		};
+		01454092C35F0D8EB83591B3 = {
+			isa = PBXGroup;
+			children = (
+				CC1AFEFCE460B6193AED858C,
+				29D406D554F07FD9313827FF,
+				107989922DCF607C86322E63,
+				96A6B8025C6F1458B4A8E06D,
+				297C3A4C07C3F6A185E02970,
+				56A62009CDA835072683CE6F,
+				E0B3727CE076C24867EDFCC4,
+				17CBE2423BD51EACE9EBF7CA,
+				6BF9BA385AF50FBBDBD17620,
+				691A574F675B2324E0EEEBA4,
+				93033921CD89046E84FB3DC2,
+				AAC2C6D99CBE5C94CA9AACEF,
+				8AA74F9CDD824B25F46339C4,
+				7E4A13A557337C142922F414,
+				A4DCFF7C05CA374E63D8A41F,
+				14102A7D3B2D0EDCF08C6B28,
+				938B48E5E3F0EEEE5C8FA165,
+				59423D4692CA033120CE6272,
+				ACB1470722A98B806AE0863D,
+				2878F59F849BE7F86EF414F0,
+				B9FD376F528D1DC048FF1293,
+				DC338D678EE1891BA77150F5,
+			);
+			name = "JUCE Library Code";
+			sourceTree = "<group>";
+		};
+		62F033E2CC4B7B59B71ECDD7 = {
+			isa = PBXGroup;
+			children = (
+				D9AC8C21F1190CDB6DFA1746,
+				B27F994FD1FB6E1F2F586A2C,
+				EB19BBBD6EB56521CBC8097D,
+				BFDA84851DB2FEFAFA6A1619,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		04CD0A4743D17AEE67BAEB67 = {
+			isa = PBXGroup;
+			children = (
+				19819AD18EA6FE4EB31B00B5,
+				F9B5E82E1311380826546861,
+				E41430E63A37D572556F0667,
+				235A41A116C772DB6A4FC93E,
+				D0205AC1D44C507A15A96ADF,
+				CD369BE2B13CE4CE71005612,
+				C88C5E216F081E8EC3A75668,
+				0D25E12C4DA7751F9A576646,
+				B2EA1E71E91EC5A99F04B33F,
+				17D205B19CFB0388D0941DAD,
+				73D95BF35E9C5F2595DCFE13,
+				474F37F9FE45D863A91E3418,
+				0ADC6000FB8FF5C11B749726,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		84C42FC6BA371CEFB2779F64 = {
+			isa = PBXGroup;
+			children = (
+				7F40FF279F958926DD3379D7,
+				DC94966A9C97BD19817D6996,
+				8BECADA574CE7F3176BE1840,
+				EDA62612CF166835C943E528,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C9007475C7ABEB4A5535B46A = {
+			isa = PBXGroup;
+			children = (
+				1B9879E209855EE6E9BC8FEF,
+				EB8B9986EC3766854B65C515,
+				01454092C35F0D8EB83591B3,
+				62F033E2CC4B7B59B71ECDD7,
+				04CD0A4743D17AEE67BAEB67,
+				84C42FC6BA371CEFB2779F64,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		79DE7B0CE4A7A31AEF3E699B = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+			};
+			name = Debug;
+		};
+		84E96B8B52310CFDAF825D18 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+			};
+			name = Release;
+		};
+		CE0FDA851110B6CD0C00DCD4 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"$(HOME)/SDKs/AAX",
+					"$(HOME)/SDKs/AAX/Interfaces",
+					"$(HOME)/SDKs/AAX/Interfaces/ACF",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-VST3.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/VST3/";
+				LIBRARY_STYLE = Bundle;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-bundle -lVemuram\\ Drive";
+				PRODUCT_BUNDLE_IDENTIFIER = com.WORKS_STENUTO.VemuramDrive;
+				PRODUCT_NAME = "Vemuram Drive";
+				USE_HEADERMAP = NO;
+				WRAPPER_EXTENSION = vst3;
+			};
+			name = Debug;
+		};
+		1C0EB48D5BA1D56B7752F23D = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"$(HOME)/SDKs/AAX",
+					"$(HOME)/SDKs/AAX/Interfaces",
+					"$(HOME)/SDKs/AAX/Interfaces/ACF",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-VST3.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/VST3/";
+				LIBRARY_STYLE = Bundle;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-bundle -lVemuram\\ Drive";
+				PRODUCT_BUNDLE_IDENTIFIER = com.WORKS_STENUTO.VemuramDrive;
+				PRODUCT_NAME = "Vemuram Drive";
+				USE_HEADERMAP = NO;
+				WRAPPER_EXTENSION = vst3;
+			};
+			name = Release;
+		};
+		7627BD1D357C9BA0A6A4C35E = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=1",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"$(HOME)/SDKs/AAX",
+					"$(HOME)/SDKs/AAX/Interfaces",
+					"$(HOME)/SDKs/AAX/Interfaces/ACF",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-AAX.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "/Library/Application Support/Avid/Audio/Plug-Ins/";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(HOME)/SDKs/AAX/Libs/Debug\"",
+				);
+				LIBRARY_STYLE = Bundle;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-bundle -lAAXLibrary_libcpp -lVemuram\\ Drive";
+				PRODUCT_BUNDLE_IDENTIFIER = com.WORKS_STENUTO.VemuramDrive;
+				PRODUCT_NAME = "Vemuram Drive";
+				USE_HEADERMAP = NO;
+				WRAPPER_EXTENSION = aaxplugin;
+			};
+			name = Debug;
+		};
+		6A092D0EEE51A2F4367E278E = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=1",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"$(HOME)/SDKs/AAX",
+					"$(HOME)/SDKs/AAX/Interfaces",
+					"$(HOME)/SDKs/AAX/Interfaces/ACF",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-AAX.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "/Library/Application Support/Avid/Audio/Plug-Ins/";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(HOME)/SDKs/AAX/Libs/Release\"",
+				);
+				LIBRARY_STYLE = Bundle;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-bundle -lAAXLibrary_libcpp -lVemuram\\ Drive";
+				PRODUCT_BUNDLE_IDENTIFIER = com.WORKS_STENUTO.VemuramDrive;
+				PRODUCT_NAME = "Vemuram Drive";
+				USE_HEADERMAP = NO;
+				WRAPPER_EXTENSION = aaxplugin;
+			};
+			name = Release;
+		};
+		96BED75F050DC35D74ACF23B = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"$(HOME)/SDKs/AAX",
+					"$(HOME)/SDKs/AAX/Interfaces",
+					"$(HOME)/SDKs/AAX/Interfaces/ACF",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-AU.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/Components/";
+				LIBRARY_STYLE = Bundle;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-bundle -lVemuram\\ Drive";
+				OTHER_REZFLAGS = "-d ppc_$ppc -d i386_$i386 -d ppc64_$ppc64 -d x86_64_$x86_64 -I /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Versions/A/Headers -I \"$(DEVELOPER_DIR)/Extras/CoreAudio/AudioUnits/AUPublic/AUBase\" -I \"$(DEVELOPER_DIR)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AudioUnit.framework/Headers\"";
+				PRODUCT_BUNDLE_IDENTIFIER = com.WORKS_STENUTO.VemuramDrive;
+				PRODUCT_NAME = "Vemuram Drive";
+				USE_HEADERMAP = NO;
+				WRAPPER_EXTENSION = component;
+			};
+			name = Debug;
+		};
+		017023B4F351BF13CC2C82DD = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"$(HOME)/SDKs/AAX",
+					"$(HOME)/SDKs/AAX/Interfaces",
+					"$(HOME)/SDKs/AAX/Interfaces/ACF",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-AU.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/Components/";
+				LIBRARY_STYLE = Bundle;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-bundle -lVemuram\\ Drive";
+				OTHER_REZFLAGS = "-d ppc_$ppc -d i386_$i386 -d ppc64_$ppc64 -d x86_64_$x86_64 -I /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Versions/A/Headers -I \"$(DEVELOPER_DIR)/Extras/CoreAudio/AudioUnits/AUPublic/AUBase\" -I \"$(DEVELOPER_DIR)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AudioUnit.framework/Headers\"";
+				PRODUCT_BUNDLE_IDENTIFIER = com.WORKS_STENUTO.VemuramDrive;
+				PRODUCT_NAME = "Vemuram Drive";
+				USE_HEADERMAP = NO;
+				WRAPPER_EXTENSION = component;
+			};
+			name = Release;
+		};
+		2F4F66B365FEE86F4B481701 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=1",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JUCE_SHARED_CODE=1",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"$(HOME)/SDKs/AAX",
+					"$(HOME)/SDKs/AAX/Interfaces",
+					"$(HOME)/SDKs/AAX/Interfaces/ACF",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INSTALL_PATH = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = com.WORKS_STENUTO.VemuramDrive;
+				PRODUCT_NAME = "Vemuram Drive";
+				SKIP_INSTALL = YES;
+				USE_HEADERMAP = NO;
+			};
+			name = Debug;
+		};
+		2D6C8B43C01F40117AD0A31F = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=1",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JUCE_SHARED_CODE=1",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"$(HOME)/SDKs/AAX",
+					"$(HOME)/SDKs/AAX/Interfaces",
+					"$(HOME)/SDKs/AAX/Interfaces/ACF",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules",
+					"/Users/X-SkyRazer/Downloads/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INSTALL_PATH = "@executable_path/../Frameworks";
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = com.WORKS_STENUTO.VemuramDrive;
+				PRODUCT_NAME = "Vemuram Drive";
+				SKIP_INSTALL = YES;
+				USE_HEADERMAP = NO;
+			};
+			name = Release;
+		};
+		30B4AA2627B7983F367D64ED = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "Vemuram Drive";
+				WARNING_CFLAGS = "-Wreorder";
+				ZERO_LINK = NO;
+			};
+			name = Debug;
+		};
+		74E3700AE74B6F49CCAD1432 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PRODUCT_NAME = "Vemuram Drive";
+				WARNING_CFLAGS = "-Wreorder";
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		46DAE6493252016B7227D519 = {
+			isa = PBXTargetDependency;
+			target = 840EBD0218144E7BAE30FAFB;
+		};
+		FA9AA2A60FE7A4A8CE2799FF = {
+			isa = PBXTargetDependency;
+			target = 9DB044CE31AD366C8EA2158D;
+		};
+		690E2C97A5D55B085E63CF53 = {
+			isa = PBXTargetDependency;
+			target = B9D1536C3916EF3056BEFF8C;
+		};
+		3A3BCE1FCAEA6776E6D1FDF8 = {
+			isa = PBXTargetDependency;
+			target = 1E0427755FA008E377B4C624;
+		};
+		75D751D5862DB542824F8BA8 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				30B4AA2627B7983F367D64ED,
+				74E3700AE74B6F49CCAD1432,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		AE95105F9A63483A0CE56716 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79DE7B0CE4A7A31AEF3E699B,
+				84E96B8B52310CFDAF825D18,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		684F43B806A6D49175353EA8 = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = AE95105F9A63483A0CE56716;
+			buildPhases = ( );
+			buildRules = ( );
+			dependencies = (
+				46DAE6493252016B7227D519,
+				FA9AA2A60FE7A4A8CE2799FF,
+				690E2C97A5D55B085E63CF53,
+				3A3BCE1FCAEA6776E6D1FDF8,
+			);
+			name = "Vemuram Drive - All";
+			productName = "Vemuram Drive";
+		};
+		341BCAC581BD67E4AED5AB45 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE0FDA851110B6CD0C00DCD4,
+				1C0EB48D5BA1D56B7752F23D,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		4543E718399D8CC9A55D4456 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				61A727A72DFF39803118A0AB,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2519F03FF7CD5F3B827A757 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2A538C8AE843FD370B19912F,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B7BFCDECF56A2A88B606CDC3 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				15DB139AF422A7CD551E9AE8,
+				CA168BFAE01E9F45EBC9CFBC,
+				FE686F589C65DA0BB7933CCC,
+				6F7E9875B64FAF0E3DB9CFF5,
+				5B2552E9DA5ACD15CFFE2402,
+				B120823907AC95FF9BB16EAD,
+				B4078AE1E0EE54C776D8A8AF,
+				1AC1C8216B4081999EFE4A0D,
+				E7D9FB13162222DD59E30EC5,
+				6C45F857D15668058E56AB72,
+				4EFD3DFE9CF8E4B238089E18,
+				DC71FD7E57C7DD12F5DBD5E1,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		840EBD0218144E7BAE30FAFB = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 341BCAC581BD67E4AED5AB45;
+			buildPhases = (
+				4543E718399D8CC9A55D4456,
+				E2519F03FF7CD5F3B827A757,
+				B7BFCDECF56A2A88B606CDC3,
+			);
+			buildRules = ( );
+			dependencies = (
+				3A3BCE1FCAEA6776E6D1FDF8,
+			);
+			name = "Vemuram Drive - VST3";
+			productName = "Vemuram Drive";
+			productReference = 7F40FF279F958926DD3379D7;
+			productType = "com.apple.product-type.bundle";
+		};
+		C80C061D44748C1E75E947F9 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7627BD1D357C9BA0A6A4C35E,
+				6A092D0EEE51A2F4367E278E,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		F91B9C7486BBF8A30B1D820F = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				61A727A72DFF39803118A0AB,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2932AD75801F3499F0EBB298 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC6C4AE47838BDB3BA5B1855,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		984F9C7985A7CEF9DF31FF7A = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				15DB139AF422A7CD551E9AE8,
+				CA168BFAE01E9F45EBC9CFBC,
+				FE686F589C65DA0BB7933CCC,
+				6F7E9875B64FAF0E3DB9CFF5,
+				5B2552E9DA5ACD15CFFE2402,
+				B120823907AC95FF9BB16EAD,
+				B4078AE1E0EE54C776D8A8AF,
+				1AC1C8216B4081999EFE4A0D,
+				E7D9FB13162222DD59E30EC5,
+				6C45F857D15668058E56AB72,
+				4EFD3DFE9CF8E4B238089E18,
+				DC71FD7E57C7DD12F5DBD5E1,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DB044CE31AD366C8EA2158D = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C80C061D44748C1E75E947F9;
+			buildPhases = (
+				F91B9C7486BBF8A30B1D820F,
+				2932AD75801F3499F0EBB298,
+				984F9C7985A7CEF9DF31FF7A,
+			);
+			buildRules = ( );
+			dependencies = (
+				3A3BCE1FCAEA6776E6D1FDF8,
+			);
+			name = "Vemuram Drive - AAX";
+			productName = "Vemuram Drive";
+			productReference = DC94966A9C97BD19817D6996;
+			productType = "com.apple.product-type.bundle";
+		};
+		6AA848B80942DBF62F250E08 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96BED75F050DC35D74ACF23B,
+				017023B4F351BF13CC2C82DD,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		1A9F7E67479C1CAFAC99A0B5 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				61A727A72DFF39803118A0AB,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		743A6B6D508DCDA49951CCA0 = {
+			isa = PBXRezBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				346512492BCFBA976580FE51,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		01780A3167E084D51E0536C7 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1C15DE5FCB0E73D89F3927C4,
+				B4B007A49F09AEB6974A621E,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		150417DEE2EFF0EE790F3ECB = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				15DB139AF422A7CD551E9AE8,
+				CA168BFAE01E9F45EBC9CFBC,
+				DE9057C5686BE3E94DC0FA63,
+				FE686F589C65DA0BB7933CCC,
+				6F7E9875B64FAF0E3DB9CFF5,
+				5B2552E9DA5ACD15CFFE2402,
+				B120823907AC95FF9BB16EAD,
+				B4078AE1E0EE54C776D8A8AF,
+				1AC1C8216B4081999EFE4A0D,
+				E7D9FB13162222DD59E30EC5,
+				6C45F857D15668058E56AB72,
+				4EFD3DFE9CF8E4B238089E18,
+				DC71FD7E57C7DD12F5DBD5E1,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9D1536C3916EF3056BEFF8C = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6AA848B80942DBF62F250E08;
+			buildPhases = (
+				1A9F7E67479C1CAFAC99A0B5,
+				743A6B6D508DCDA49951CCA0,
+				01780A3167E084D51E0536C7,
+				150417DEE2EFF0EE790F3ECB,
+			);
+			buildRules = ( );
+			dependencies = (
+				3A3BCE1FCAEA6776E6D1FDF8,
+			);
+			name = "Vemuram Drive - AU";
+			productName = "Vemuram Drive";
+			productReference = 8BECADA574CE7F3176BE1840;
+			productType = "com.apple.product-type.bundle";
+		};
+		FC1EA0A090D42A649608945D = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2F4F66B365FEE86F4B481701,
+				2D6C8B43C01F40117AD0A31F,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		6B7EF305B925199007596B48 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2E333EEE0EB09DEBCCE57397,
+				E5E6D6E413055CA935259CB3,
+				FA299AF666FB0C668C0E1CD1,
+				AE30368ECD64D9D3FB177361,
+				06AA346F1CC9F85F9DDD3768,
+				005CD0C300C4768D53EC7BBD,
+				F74F5B4D594260DC4F65EE4F,
+				126C7A7A2919CFED481CD4E5,
+				97D2514E6662240522B543B9,
+				F4628FFD0D4449FCCFED39A8,
+				825549A4B98EC472A4C97B11,
+				588EFB41044B1B95CDFC3D91,
+				875FDD5A41B53EB2A3C840FA,
+				62285D14750A11E8F76FE09A,
+				6760930096CBEF1FAFEC09D9,
+				A6EE6FA3E750E1B8C974F5CE,
+				99DF5B03B2E32092311C6571,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1E0427755FA008E377B4C624 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FC1EA0A090D42A649608945D;
+			buildPhases = (
+				6B7EF305B925199007596B48,
+			);
+			buildRules = ( );
+			dependencies = ( );
+			name = "Vemuram Drive - Shared Code";
+			productName = "Vemuram Drive";
+			productReference = EDA62612CF166835C943E528;
+			productType = "com.apple.product-type.library.static";
+		};
+		77528B9C964EE6CA55E0A8B0 = {
+			isa = PBXProject;
+			buildConfigurationList = 75D751D5862DB542824F8BA8;
+			attributes = { LastUpgradeCheck = 1100; ORGANIZATIONNAME = "WORKS:ØSTENUTO"; TargetAttributes = { 684F43B806A6D49175353EA8 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };840EBD0218144E7BAE30FAFB = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };9DB044CE31AD366C8EA2158D = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };B9D1536C3916EF3056BEFF8C = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };1E0427755FA008E377B4C624 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; }; }; };
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			mainGroup = C9007475C7ABEB4A5535B46A;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (684F43B806A6D49175353EA8, 840EBD0218144E7BAE30FAFB, 9DB044CE31AD366C8EA2158D, B9D1536C3916EF3056BEFF8C, 1E0427755FA008E377B4C624);
+			knownRegions = (en, Base);
+		};
+	};
+	rootObject = 77528B9C964EE6CA55E0A8B0;
+}
